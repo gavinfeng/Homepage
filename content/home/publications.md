@@ -66,10 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
-[[main]]
-    name = "Publications"  # A name for the link.
-    url = ""  # URL of the section.
+Publications:
+  - Taming the Factor Zoo: A Test of New Factors
 
-[[main]]
-    name = "Working Papers"  # A name for the link.
-    url = ""  # URL of the section.
+Working Papers:
+  - Deep Learning in Characteristics-Sorted Factor Models
