@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: City University of Hong Kong
-  url: "http://www.cityu.edu.hk/"
+  url: "/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My current research area is machine learning in finance.
@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: PhD in Business Administration
-    institution: [University of Chicago, Booth School of Business](https://www.chicagobooth.edu/)
+    institution: University of Chicago, Booth School of Business
     year: 2017
   - course: B.S. in Economics and Mathematics
-    institution: [Penn State University, Schreyer Honors College](https://www.shc.psu.edu/)
+    institution: Penn State University, Schreyer Honors College
     year: 2012
 
 # Social/Academic Networking
