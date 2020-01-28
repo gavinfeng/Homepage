@@ -31,9 +31,7 @@ education:
   - course: PhD in Business Administration
     institution: [University of Chicago, Booth School of Business](https://www.chicagobooth.edu/)
     year: 2017
-  - course: B.S. in Honors Economics
-    course: B.S. in Mathematics
-    course: Minor in Statistis
+  - course: B.S. in Economics and Mathematics
     institution: [Penn State University, Schreyer Honors College](https://www.shc.psu.edu/)
     year: 2012
 
