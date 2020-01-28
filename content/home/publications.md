@@ -72,6 +72,13 @@ subtitle = ""
     - Forthcoming in Journal of Finance
     - First Prize Winners, 2018 AQR Insight Award
     - Media Coverages: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2018/article/300-secrets-high-stock-returns)
+  ### [Does higher-frequency data always help to predict longer-horizon volatility?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769036)
+    - with Ben Charoenwong
+    - Journal of Risk, 19.5 (2017): 55-75
+  ### [The Market for English Premier League (EPL) Odds]
+    - with Nicholas Polson and Jianeng Xu
+    - Journal of Quantitative Analysis in Sports, 12.4 (2017): 167-178
+    - Media Coverage: [Chicago Booth Review](http://review.chicagobooth.edu/economics/2016/article/real-time-gambling-odds-have-predictive-power)
 
 ### Working Papers:
   ### [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
