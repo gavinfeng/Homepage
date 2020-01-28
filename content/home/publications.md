@@ -75,7 +75,7 @@ subtitle = ""
   - [Does higher-frequency data always help to predict longer-horizon volatility?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769036)
     - with Ben Charoenwong
     - Journal of Risk, 19.5 (2017): 55-75
-  - [The Market for English Premier League (EPL) Odds]
+  - [The Market for English Premier League (EPL) Odds](https://arxiv.org/abs/1604.03614)
     - with Nicholas Polson and Jianeng Xu
     - Journal of Quantitative Analysis in Sports, 12.4 (2017): 167-178
     - Media Coverage: [Chicago Booth Review](http://review.chicagobooth.edu/economics/2016/article/real-time-gambling-odds-have-predictive-power)

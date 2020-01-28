@@ -15,10 +15,10 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: City University of Hong Kong
-  url: ""
+  url: "http://www.cityu.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research area is machine learning in finance.
+# bio: My current research area is machine learning in finance.
 
 interests:
 - Financial time series
