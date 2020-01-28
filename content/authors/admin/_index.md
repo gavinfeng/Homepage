@@ -40,14 +40,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-Email: gavin.feng@cityu.edu.hk
-Office: 7-276, Lau Ming Wai Bldg, 83 Tat Chee Ave, Hong Kong
 <!-- - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/gavinfeng702/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=s1bAFGEAAAAJ&hl=en
