@@ -28,8 +28,8 @@
   url = "#contact"
   weight = 60
 
-Link to a PDF of your resume/CV from the menu.
-To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#   Link to a PDF of your resume/CV from the menu.
+#   To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "Curriculum Vitae"
    url = "files/CV-Feng-CityU.pdf"
