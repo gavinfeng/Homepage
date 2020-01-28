@@ -87,5 +87,5 @@ subtitle = ""
     - Unigestion Alternative Risk Premia Research Grand Award
     - Second Prize, 2019 Crowell Prize
     - INQUIRE Europe Research Grant Award
-    - [Python Example](https://github.com/Jianeng/Deep-Learning-in-Asset-Pricing)
-    - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),[BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/)
+    #### [Python Example](https://github.com/Jianeng/Deep-Learning-in-Asset-Pricing)
+    #### Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),[BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/)
