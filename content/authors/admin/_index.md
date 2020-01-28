@@ -43,7 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: phone-office
+- icon: phone
   icon_pack: fas
   link: '#contact'
 - icon: linkedin
