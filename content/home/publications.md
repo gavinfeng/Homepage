@@ -66,14 +66,14 @@ subtitle = ""
  css_class = ""
 +++
 
-## Publications:
+### Publications:
   ### [Taming the Factor Zoo: A Test of New Factors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2934020)
     - with Dacheng Xiu and Stefano Giglio
     - Forthcoming in Journal of Finance
     - First Prize Winners, 2018 AQR Insight Award
     - Media Coverages: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2018/article/300-secrets-high-stock-returns)
 
-## Working Papers:
+### Working Papers:
   ### [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
     - with Nicholas Polson and Jianeng Xu
     - (Previous Version Title: "Deep Learning in Asset Pricing")
