@@ -68,6 +68,15 @@ subtitle = ""
 
 Publications:
   - Taming the Factor Zoo: A Test of New Factors
+    - with Dacheng Xiu and Stefano Giglio
+    - Forthcoming in Journal of Finance
+    - First Prize Winners, 2018 AQR Insight Award
+    - Media Coverages: Chicago Booth Review
 
 Working Papers:
   - Deep Learning in Characteristics-Sorted Factor Models
+    - with Nicholas Polson and Jianeng Xu
+    - (Previous Version Title: "Deep Learning in Asset Pricing")
+    - Unigestion Alternative Risk Premia Research Grand Award
+    - Second Prize, 2019 Crowell Prize
+    - INQUIRE Europe Research Grant Award
