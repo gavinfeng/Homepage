@@ -67,25 +67,25 @@ subtitle = ""
 +++
 
 ### Publications:
-  ### [Taming the Factor Zoo: A Test of New Factors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2934020)
+  - [Taming the Factor Zoo: A Test of New Factors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2934020)
     - with Dacheng Xiu and Stefano Giglio
     - Forthcoming in Journal of Finance
     - First Prize Winners, 2018 AQR Insight Award
     - Media Coverages: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2018/article/300-secrets-high-stock-returns)
-  ### [Does higher-frequency data always help to predict longer-horizon volatility?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769036)
+  - [Does higher-frequency data always help to predict longer-horizon volatility?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769036)
     - with Ben Charoenwong
     - Journal of Risk, 19.5 (2017): 55-75
-  ### [The Market for English Premier League (EPL) Odds]
+  - [The Market for English Premier League (EPL) Odds]
     - with Nicholas Polson and Jianeng Xu
     - Journal of Quantitative Analysis in Sports, 12.4 (2017): 167-178
     - Media Coverage: [Chicago Booth Review](http://review.chicagobooth.edu/economics/2016/article/real-time-gambling-odds-have-predictive-power)
 
 ### Working Papers:
-  ### [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
+  - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
     - with Nicholas Polson and Jianeng Xu
     - (Previous Version Title: "Deep Learning in Asset Pricing")
     - Unigestion Alternative Risk Premia Research Grand Award
     - Second Prize, 2019 Crowell Prize
     - INQUIRE Europe Research Grant Award
-    #### [Python Example](https://github.com/Jianeng/Deep-Learning-in-Asset-Pricing)
-    #### Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),[BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/)
+    - [Python Example](https://github.com/Jianeng/Deep-Learning-in-Asset-Pricing)
+    - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),[BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/)
