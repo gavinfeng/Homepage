@@ -27,14 +27,14 @@ interests:
 - Quantitative finance
 
 education:
-  - University of Chicago, Booth School of Business
-    - Ph.D. in Business Administration, 2017
-      - Concentration in Statistics and Finance
-    - M.B.A., 2017
-  - Penn State University, Schreyer Honors College
-    - B.S. in Honors Economics, 2012
-    - B.S. in Mathematics, 2012
-    - Minor in Statistis, 2012
+- [University of Chicago, Booth School of Business](https://www.chicagobooth.edu/)
+  - Ph.D. in Business Administration, 2017
+    - Concentration in Statistics and Finance
+  - M.B.A., 2017
+- [Penn State University, Schreyer Honors College](https://www.shc.psu.edu/)
+  - B.S. in Honors Economics, 2012
+  - B.S. in Mathematics, 2012
+  - Minor in Statistis, 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
