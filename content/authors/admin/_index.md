@@ -18,24 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My current research area is machine learning in finance.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Financial time series
+- Empirical asset pricing
+- Machine learning
+- Quantitative finance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Statistics and Finance
+    institution: University of Chicago, Booth School of Business
+    year: 2017
+  - course: B.S. in Honors Economics and Mathematics
+    institution: Penn State University, Schreyer Honors College
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gavin Feng joined the City University of Hong Kong in 2017 as an assistant professor in statistics. His research interests include financial time series, empirical asset pricing, machine learning, and quantitative finance. One primary goal of his research is to develop statistical and machine learning methods for predicting asset returns in the cross-section and time series.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Gavin's research work has been invited to present at major academic conferences (AFA, CICF, Informs, and SoFie) and practitioner conferences (CQAsia, Wolfe Research, and INQUIRE Europe). His collaborative work "Taming the Factor Zoo" earned the 2018 AQR Insight Award and was accepted at the Journal of Finance. His other collaborative work "Deep Learning in Characteristics-Sorted Factor Models" earned the second prize of 2019 Crowell Prize, Unigestion Alternative Risk Premia Research Grant Award, and INQUIRE Europe Research Grant Award.
