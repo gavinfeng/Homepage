@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: FENG Guanhao Gavin
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: City University of Hong Kong
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
