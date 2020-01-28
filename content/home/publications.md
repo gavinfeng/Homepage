@@ -66,6 +66,10 @@ subtitle = ""
  css_class = ""
 +++
 
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
+[[main]]
+    name = "Publications"  # A name for the link.
+    url = ""  # URL of the section.
+
+[[main]]
+    name = "Working Papers"  # A name for the link.
+    url = ""  # URL of the section.
