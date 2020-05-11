@@ -91,6 +91,7 @@ subtitle = ""
     - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),[BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/)
   - [Factor Investing: Hierarchical Ensemble Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
     - with Jingyu He
+    - Revision Requested at Journal of Econometrics
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
     - with Andras Fulop and Junye Li
   - [Deep Learning for Predicting Asset Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
