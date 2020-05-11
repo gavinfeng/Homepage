@@ -46,9 +46,6 @@ social:
 - icon: phone
   icon_pack: fas
   link: '#contact'
-- icon: skype
-  icon_pack: fas
-  link: '#contact'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gavinfeng702/
