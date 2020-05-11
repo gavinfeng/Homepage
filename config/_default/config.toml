@@ -13,7 +13,7 @@ baseurl = "https://www.gavinfeng702.com"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "2020 Guanhao Feng"
+copyright = "&copy;{year} Guanhao Feng"
 
 ############################
 ## Advanced options below ##
