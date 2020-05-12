@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -44,6 +44,9 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: phone
+  icon_pack: fas
+  link: '#contact'
+- icon: university
   icon_pack: fas
   link: '#contact'
 - icon: linkedin
