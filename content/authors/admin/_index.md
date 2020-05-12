@@ -1,6 +1,6 @@
 ---
 # Display name
-name: FENG Guanhao Gavin 冯冠豪
+name: FENG Guanhao Gavin \\ 冯冠豪
 
 # Username (this should match the folder name)
 authors:
