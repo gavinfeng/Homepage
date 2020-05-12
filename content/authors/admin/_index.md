@@ -28,11 +28,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Business Administration
+  - course: PhD in Business Administration (Statistics and Finance)
     institution: University of Chicago, Booth School of Business
+    url: "https://www.chicagobooth.edu/"
     year: 2017
   - course: B.S. in Economics and Mathematics
     institution: Penn State University, Schreyer Honors College
+    url: "https://www.shc.psu.edu/"
     year: 2012
 
 # Social/Academic Networking
@@ -48,7 +50,7 @@ social:
   link: '#contact'
 - icon: university
   icon_pack: fas
-  link: '#contact'
+  link: https://www.cb.cityu.edu.hk/staff/gufeng/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gavinfeng702/
