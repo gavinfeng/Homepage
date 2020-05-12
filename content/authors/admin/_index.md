@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Business Administration (Statistics and Finance)
+  - course: PhD in Business Administration
     institution: University of Chicago, Booth School of Business
-    url: "https://www.chicagobooth.edu/"
+    # url: "https://www.chicagobooth.edu/"
     year: 2017
   - course: B.S. in Economics and Mathematics
     institution: Penn State University, Schreyer Honors College
-    url: "https://www.shc.psu.edu/"
+    # url: "https://www.shc.psu.edu/"
     year: 2012
 
 # Social/Academic Networking
