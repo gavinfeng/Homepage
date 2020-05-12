@@ -16,6 +16,8 @@ role: Assistant Professor of Statistics
 organizations:
 - name: City University of Hong Kong
   url: "https://www.cityu.edu.hk/"
+- name: College of Business
+  url: "https://www.cb.cityu.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My current research area is machine learning in finance.
