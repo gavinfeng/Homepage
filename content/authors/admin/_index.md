@@ -80,6 +80,4 @@ Gavin Feng joined the City University of Hong Kong in 2017 as an assistant profe
 
 Gavin's research work has been invited to present at major academic conferences (AFA, CICF, Informs, and SoFie) and practitioner conferences (CQAsia, Wolfe Research, and INQUIRE Europe). His collaborative work "Taming the Factor Zoo" earned the 2018 AQR Insight Award and was accepted at the Journal of Finance. His other collaborative work "Deep Learning in Characteristics-Sorted Factor Models" received the second prize of the 2019 Crowell Prize, Unigestion Alternative Risk Premia Research Grant Award, and INQUIRE Europe Research Grant Award.
 
-Opportunities:
-
 For prospective students looking for research assistant work or Ph.D. admission, please email me with your resume/CV and a brief email statement of your interests.
