@@ -69,7 +69,7 @@ subtitle = ""
 ### Publications:
   - [Taming the Factor Zoo: A Test of New Factors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2934020)
     - with Dacheng Xiu and Stefano Giglio
-    - Forthcoming in Journal of Finance
+    - The Journal of Finance, 2020, 75(3): 1327-1370.
     - First Prize Winners, 2018 AQR Insight Award
     - Media Coverages: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2018/article/300-secrets-high-stock-returns)
   - [Does higher-frequency data always help to predict longer-horizon volatility?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769036)
@@ -82,7 +82,7 @@ subtitle = ""
 
 ### Working Papers:
   - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
-    - with Nicholas Polson and Jianeng Xu
+    - with Nicholas Polson and Jianeng Xu. Mar. 2020. Submitted.
     - (Previous Version Title: "Deep Learning in Asset Pricing")
     - Unigestion Alternative Risk Premia Research Grand Award
     - Second Prize, 2019 Crowell Prize
@@ -93,7 +93,7 @@ subtitle = ""
     - with Jingyu He
     - Revision Requested at Journal of Econometrics
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
-    - with Andras Fulop and Junye Li
+    - with Andras Fulop and Junye Li. May. 2020. Submitted.
   - [Deep Learning for Predicting Asset Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
     - with Nicholas Polson and Jingyu He
   - [Sparse Regularization in Marketing and Economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3022856)
