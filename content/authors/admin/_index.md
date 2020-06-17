@@ -52,13 +52,13 @@ social:
   link: '#contact'
 - icon: university
   icon_pack: fas
-  link: https://www.cb.cityu.edu.hk/staff/gufeng/
+  link: "https://www.cb.cityu.edu.hk/staff/gufeng/"
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/gavinfeng702/
+  link: "https://www.linkedin.com/in/gavinfeng702/"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=s1bAFGEAAAAJ&hl=en
+  link: "https://scholar.google.com/citations?user=s1bAFGEAAAAJ&hl=en"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
