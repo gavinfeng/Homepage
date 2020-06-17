@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Gavin Feng joined the City University of Hong Kong in 2017 as an assistant professor in statistics. His research interests include financial time series, empirical asset pricing, machine learning, and quantitative finance.
+Gavin Feng is an assistant professor of business statistics at the City University of Hong Kong. He obtained his PhD and MBA degrees from the University of Chicago in 2017. His research interests include financial time series, empirical asset pricing, machine learning, and quantitative finance.
 
 Gavin's research work has been invited to present at major academic conferences (AFA, CICF, Informs, and SoFie) and practitioner conferences (CQAsia, Wolfe Research, and INQUIRE Europe). His collaborative work "Taming the Factor Zoo" earned the 2018 AQR Insight Award and was published at the Journal of Finance. His other collaborative work "Deep Learning in Characteristics-Sorted Factor Models" received the second prize of the 2019 Crowell Prize, Unigestion Alternative Risk Premia Research Grant Award, and INQUIRE Europe Research Grant Award.
 
