@@ -71,8 +71,12 @@ subtitle = ""
     - with Dacheng Xiu and Stefano Giglio
     - The Journal of Finance, 2020, 75(3): 1327-1370.
     - First Prize Winners, 2018 AQR Insight Award
-    - Media Coverages: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2018/article/300-secrets-high-stock-returns), [Pensions&Investments](https://www.pionline.com/article/20180628/ONLINE/180629851/aqr-insight-award-granted-to-2-papers-this-year)
-  - [Does higher-frequency data always help to predict longer-horizon volatility?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769036), [Executive Summary from AQR Insight Award](https://www.aqr.com/About-Us/AQR-Insight-Award/2018/Taming-the-Factor-Zoo), [Cliff's Perspectives](https://www.aqr.com/Insights/Perspectives/AQR-Insight-Award-2018), [知乎](https://zhuanlan.zhihu.com/p/61411378)
+    - Media Coverages: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2018/article/300-secrets-high-stock-returns),
+    [Pensions&Investments](https://www.pionline.com/article/20180628/ONLINE/180629851/aqr-insight-award-granted-to-2-papers-this-year),
+    [Executive Summary from AQR Insight Award](https://www.aqr.com/About-Us/AQR-Insight-Award/2018/Taming-the-Factor-Zoo),
+    [Cliff's Perspectives](https://www.aqr.com/Insights/Perspectives/AQR-Insight-Award-2018),
+    [知乎](https://zhuanlan.zhihu.com/p/61411378)
+  - [Does higher-frequency data always help to predict longer-horizon volatility?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769036)
     - with Ben Charoenwong
     - Journal of Risk, 19.5 (2017): 55-75
   - [The Market for English Premier League (EPL) Odds](https://arxiv.org/abs/1604.03614)
@@ -88,7 +92,9 @@ subtitle = ""
     - Second Prize, 2019 Crowell Prize
     - INQUIRE Europe Research Grant Award
     - [Python Example](https://github.com/Jianeng/Deep-Learning-in-Asset-Pricing)
-    - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),[BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/), [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
+    - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),
+    [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/), 
+    [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
   - [Factor Investing: Hierarchical Ensemble Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
     - with Jingyu He
     - Revision Requested at Journal of Econometrics
