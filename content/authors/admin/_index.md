@@ -23,7 +23,7 @@ organizations:
 # bio: My current research area is machine learning in finance.
 
 interests:
-- Financial time series
+- Financial econometrics
 - Empirical asset pricing
 - Machine learning
 - Quantitative finance
