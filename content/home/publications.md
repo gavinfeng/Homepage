@@ -93,9 +93,9 @@ subtitle = ""
     - INQUIRE Europe Research Grant Award
     - [Python Example](https://github.com/Jianeng/Deep-Learning-in-Asset-Pricing)
     - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),
-    [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/), 
+    [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/),
     [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
-  - [Factor Investing: Hierarchical Ensemble Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
+  - [Factor Investing: A Bayesian Hierarchical Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
     - with Jingyu He
     - Revision Requested at Journal of Econometrics
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
