@@ -82,4 +82,4 @@ Gavin's research work has been invited to present at major academic conferences 
 
 - Opportunities
 
-For prospective students looking for research assistant work or Ph.D. admission, please email me with your resume/CV and a brief email statement of your interests. If you are a current Ph.D. student from a top university in mainland China, joint Ph.D. admission is also available.
+For prospective students looking for research assistant opportunities or Ph.D. admission, please email me with your resume/CV. If you are a current Ph.D. student from a top university in mainland China, joint Ph.D. admission is also available.
