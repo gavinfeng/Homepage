@@ -85,6 +85,9 @@ subtitle = ""
     - Media Coverage: [Chicago Booth Review](http://review.chicagobooth.edu/economics/2016/article/real-time-gambling-odds-have-predictive-power)
 
 ### Working Papers:
+  - [Factor Investing: A Bayesian Hierarchical Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
+    - with Jingyu He
+    - Conditionally accepted at Journal of Econometrics
   - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
     - with Nicholas Polson and Jianeng Xu. Mar. 2020. Submitted.
     - (Previous Version Title: "Deep Learning in Asset Pricing")
@@ -95,9 +98,7 @@ subtitle = ""
     - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),
     [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/),
     [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
-  - [Factor Investing: A Bayesian Hierarchical Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
-    - with Jingyu He
-    - Revision Requested at Journal of Econometrics
+
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
     - with Andras Fulop and Junye Li. May. 2020. Submitted.
   - [Deep Learning for Predicting Asset Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
