@@ -98,7 +98,6 @@ subtitle = ""
     - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),
     [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/),
     [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
-
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
     - with Andras Fulop and Junye Li. May. 2020. Submitted.
   - [Deep Learning for Predicting Asset Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
