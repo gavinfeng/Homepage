@@ -76,6 +76,12 @@ subtitle = ""
     [Executive Summary from AQR Insight Award](https://www.aqr.com/About-Us/AQR-Insight-Award/2018/Taming-the-Factor-Zoo),
     [Cliff's Perspectives](https://www.aqr.com/Insights/Perspectives/AQR-Insight-Award-2018),
     [知乎](https://zhuanlan.zhihu.com/p/61411378)
+  - [Factor Investing: A Bayesian Hierarchical Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
+    - with Jingyu He
+    - Conditionally accepted at Journal of Econometrics
+  - [Regularizing Bayesian Predictive Regressions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2822926)
+    - with Nicholas Polson
+    - Journal of Asset Management, 2020.
   - [Does higher-frequency data always help to predict longer-horizon volatility?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769036)
     - with Ben Charoenwong
     - Journal of Risk, 19.5 (2017): 55-75
@@ -84,10 +90,8 @@ subtitle = ""
     - Journal of Quantitative Analysis in Sports, 12.4 (2017): 167-178
     - Media Coverage: [Chicago Booth Review](http://review.chicagobooth.edu/economics/2016/article/real-time-gambling-odds-have-predictive-power)
 
+
 ### Working Papers:
-  - [Factor Investing: A Bayesian Hierarchical Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
-    - with Jingyu He
-    - Conditionally accepted at Journal of Econometrics
   - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
     - with Nicholas Polson and Jianeng Xu. Mar. 2020. Submitted.
     - (Previous Version Title: "Deep Learning in Asset Pricing")
@@ -104,5 +108,3 @@ subtitle = ""
     - with Nicholas Polson and Jingyu He
   - [Sparse Regularization in Marketing and Economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3022856)
     - with Nicholas Polson, Yuexi Wang and Jianeng Xu
-  - [Regularizing Bayesian Predictive Regressions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2822926)
-    - with Nicholas Polson
