@@ -78,7 +78,7 @@ subtitle = ""
     [知乎](https://zhuanlan.zhihu.com/p/61411378)
   - [Factor Investing: A Bayesian Hierarchical Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
     - with Jingyu He
-    - Conditionally accepted at Journal of Econometrics
+    - Journal of Econometrics, Forthcoming.
   - [Regularizing Bayesian Predictive Regressions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2822926)
     - with Nicholas Polson
     - Journal of Asset Management, 21.7 (2020): 591-608.
