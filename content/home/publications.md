@@ -93,7 +93,7 @@ subtitle = ""
 
 ### Working Papers:
   - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
-    - with Nicholas Polson and Jianeng Xu. Mar. 2020. Submitted.
+    - with Nicholas Polson and Jianeng Xu. Jan. 2021. Submitted.
     - (Previous Version Title: "Deep Learning in Asset Pricing")
     - Unigestion Alternative Risk Premia Research Grand Award
     - Second Prize, 2019 Crowell Prize
@@ -103,7 +103,7 @@ subtitle = ""
     [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/),
     [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
-    - with Andras Fulop and Junye Li. May. 2020. Submitted.
+    - with Andras Fulop and Junye Li. Jan. 2021. Submitted.
   - [Deep Learning for Predicting Asset Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
     - with Nicholas Polson and Jingyu He
   - [Sparse Regularization in Marketing and Economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3022856)

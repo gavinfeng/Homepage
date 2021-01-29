@@ -76,10 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Gavin Feng is an assistant professor of business statistics at the City University of Hong Kong. He obtained his PhD and MBA degrees from the University of Chicago in 2017. His research interests include financial time series, empirical asset pricing, machine learning, and quantitative finance.
+Guanhao (Gavin) Feng is an assistant professor of business statistics at the City University of Hong Kong. He obtained his PhD and MBA degrees from the University of Chicago in 2017. His research interests include financial time series, empirical asset pricing, machine learning, and quantitative finance.
 
-Gavin's research work has been invited to present at major academic conferences (AFA, CICF, Informs, and SoFie) and practitioner conferences (CQAsia, Wolfe Research, and INQUIRE Europe). His collaborative work "Taming the Factor Zoo" earned the 2018 AQR Insight Award and was published at the Journal of Finance. His other collaborative work "Deep Learning in Characteristics-Sorted Factor Models" received the second prize of the 2019 Crowell Prize, Unigestion Alternative Risk Premia Research Grant Award, and INQUIRE Europe Research Grant Award.
+Feng's research work has been published or accepted at the Journal of Finance and Journal of Econometrics. Feng has received the 2018 AQR Insight Award, 2nd Prize of the 2019 Crowell Prize, Unigestion Alternative Risk Premia Research Grant Award, INQUIRE Europe Research Grant Award, and PwC 3535 Finance Forum Annual Best Paper Award. Feng has been invited to present at major academic conferences (AFA, CICF, Informs, and SoFie) and practitioner conferences (CQAsia, Wolfe Research, and INQUIRE Europe). 
 
-- Opportunities
-
-For prospective students looking for research assistant opportunities or Ph.D. admission, please email me with your resume/CV. If you are a current Ph.D. student from a top university in mainland China, joint Ph.D. admission is also available.
