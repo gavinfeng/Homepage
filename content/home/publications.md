@@ -108,7 +108,14 @@ subtitle = ""
     - with Xin He, Junbo Wang, and Chunchi Wu. Jan. 2021.	
   - [Benchmarking Individual Corporate Bonds](www.gavinfeng702.com)
     - with Xin He, Junbo Wang, and Chunchi Wu. Feb. 2021.	
+
+
+
+ ### Inactive Papers:
   - [Deep Learning for Predicting Asset Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326617)
     - with Nicholas Polson and Jingyu He
   - [Sparse Regularization in Marketing and Economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3022856)
     - with Nicholas Polson, Yuexi Wang and Jianeng Xu
+
+
+
