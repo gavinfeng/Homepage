@@ -82,4 +82,4 @@ Feng's research work has been published or accepted at the Journal of Finance an
 
 Feng obtained his PhD and MBA degrees from the University of Chicago in 2017. His research interests include financial time series, empirical asset pricing, machine learning, and quantitative finance.
 
-**Opportunity: We have FinTech postdoc positions available. Please check the job description [here](https://www.gavinfeng702.com/files/cityuhk_fintech_postdoc.pdf). We also have fully funded Ph.D. and full-time research assistant positions available.**
+**Opportunity: We have full-time FinTech research assistant or analyst positions available. Please check the job description [here](https://www.gavinfeng702.com/files/cityuhk_hkaift.pdf). We also have fully funded Ph.D. and postdoc positions available.**
