@@ -26,7 +26,7 @@ interests:
 - Financial econometrics
 - Empirical asset pricing
 - Machine learning
-- Quantitative finance
+- Fintech
 
 education:
   courses:
@@ -80,6 +80,6 @@ Guanhao (Gavin) Feng is an assistant professor of business statistics at the Cit
 
 Feng's research work has been published or accepted at the Journal of Finance and Journal of Econometrics. His research work has received major academic and practitioner awards, including the 2018 AQR Insight Award, 2nd Prize of the 2019 Crowell Prize, Unigestion Alternative Risk Premia Research Grant Award, INQUIRE Europe Research Grant Award, and PwC 3535 Finance Forum Annual Best Paper Award. Also, Feng has been invited to present at major academic conferences (AFA, CICF, Informs, and SoFie) and practitioner conferences (CQAsia, Wolfe Research, and INQUIRE Europe). 
 
-Feng obtained his PhD and MBA degrees from the University of Chicago in 2017. His research interests include financial time series, empirical asset pricing, machine learning, and quantitative finance.
+Feng obtained his PhD and MBA degrees from the University of Chicago in 2017. His research interests include financial time series, empirical asset pricing, machine learning, and fintech.
 
 **Opportunity: We have full-time FinTech research assistant or analyst positions available. Please check the job description [here](https://www.gavinfeng702.com/files/cityuhk_hkaift.pdf). We also have fully funded Ph.D. and postdoc positions available.**
