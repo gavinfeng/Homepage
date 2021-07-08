@@ -76,10 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Guanhao (Gavin) Feng is an assistant professor of business statistics at the City University of Hong Kong. He is also the program leader of MSc in Business Data Analytics (Quantitative Analysis for Business stream). 
+Guanhao (Gavin) Feng is an assistant professor of business statistics at the City University of Hong Kong. He is also the program leader of MSc in Business Data Analytics (Quantitative Analysis for Business stream). Gavin's research work has been published or accepted at the Journal of Finance and Journal of Econometrics.  He has been invited to present at major academic conferences and international investment professional conferences. Gavin obtained his Ph.D. and MBA degrees from the University of Chicago in 2017. His research interests include financial econometrics, empirical asset pricing, machine learning, and fintech.
 
-Feng's research work has been published or accepted at the Journal of Finance and Journal of Econometrics. His research work has received major academic and practitioner awards, including the 2018 AQR Insight Award, 2nd Prize of the 2019 Crowell Prize, Unigestion Alternative Risk Premia Research Grant Award, INQUIRE Europe Research Grant Award, and PwC 3535 Finance Forum Annual Best Paper Award. Also, Feng has been invited to present at major academic conferences (AFA, CICF, Informs, and SoFie) and practitioner conferences (CQAsia, Wolfe Research, and INQUIRE Europe). 
-
-Feng obtained his PhD and MBA degrees from the University of Chicago in 2017. His research interests include financial time series, empirical asset pricing, machine learning, and fintech.
 
 **Opportunity: We have full-time FinTech research assistant or analyst positions available. Please check the job description [here](https://www.gavinfeng702.com/files/cityuhk_hkaift.pdf). We also have fully funded Ph.D. and postdoc positions available.**
