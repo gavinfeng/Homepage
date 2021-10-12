@@ -103,11 +103,11 @@ subtitle = ""
     [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/),
     [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
-    - with Andras Fulop and Junye Li. Jan. 2021. Submitted.
+    - with Andras Fulop and Junye Li. Jan. 2021.
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
-    - with Xin He, Junbo Wang, and Chunchi Wu. Jun. 2021.	
-  - [Benchmarking Individual Corporate Bonds](www.gavinfeng702.com)
-    - with Xin He, Junbo Wang, and Chunchi Wu. Feb. 2021.	
+    - with Xin He, Junbo Wang, and Chunchi Wu. Jun. 2021.
+  - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
+    - with Xin He, Junbo Wang, and Chunchi Wu. Jun. 2021.
 
 
 
@@ -116,6 +116,3 @@ subtitle = ""
     - with Nicholas Polson and Jingyu He
   - [Sparse Regularization in Marketing and Economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3022856)
     - with Nicholas Polson, Yuexi Wang and Jianeng Xu
-
-
-
