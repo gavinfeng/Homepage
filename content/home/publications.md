@@ -93,8 +93,8 @@ subtitle = ""
 
 ### Working Papers:
   - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
-    - with Nicholas Polson and Jianeng Xu. Jan. 2021. Submitted.
-    - (Previous Version Title: "Deep Learning in Asset Pricing")
+    - with Nicholas Polson and Jianeng Xu. Jan. 2021.
+    - Revision requested by Journal of Financial and Quantitative Analysis
     - Unigestion Alternative Risk Premia Research Grand Award
     - Second Prize, 2019 Crowell Prize
     - INQUIRE Europe Research Grant Award
