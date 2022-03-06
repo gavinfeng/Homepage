@@ -26,7 +26,7 @@ interests:
 - Financial econometrics
 - Empirical asset pricing
 - Machine learning
-- Fintech
+- FinTech
 
 education:
   courses:
@@ -77,3 +77,5 @@ user_groups:
 ---
 
 Guanhao (Gavin) Feng is an assistant professor of business statistics at the City University of Hong Kong. He is also the program leader of MSc. in Business Data Analytics (Quantitative Analysis for Business stream), a faculty affiliate at the School of Data Science, and a Co-PI in the Lab for AI-Powered FinTech. Gavin's research publications have appeared in the Journal of Finance and Journal of Econometrics. Gavin obtained his Ph.D. and MBA degrees from the University of Chicago in 2017. His research interests include financial econometrics, empirical asset pricing, machine learning, and fintech.
+
+We are organizing the 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business <https://cityuhkfintech.com/>.
