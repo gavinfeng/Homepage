@@ -105,7 +105,7 @@ subtitle = ""
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
     - with Andras Fulop and Junye Li. Jan. 2021.
   - [Asset Pricing with Panel Trees under Global Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
-    - with Xin He, Will Cong, and Jingyu He. Oct. 2021.
+    - with Will Cong, Jingyu He, and Xin He. Oct. 2021.
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
     - with Xin He, Junbo Wang, and Chunchi Wu. Jun. 2021.
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
