@@ -92,9 +92,11 @@ subtitle = ""
 
 
 ### Working Papers:
+  - [Asset Pricing with Panel Trees under Global Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
+    - with Will Cong, Jingyu He, and Xin He. Mar. 2022.
   - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
     - with Nicholas Polson and Jianeng Xu. Jan. 2021.
-    - Revision requested by Journal of Financial and Quantitative Analysis
+    - R&R, Journal of Financial and Quantitative Analysis
     - Unigestion Alternative Risk Premia Research Grand Award
     - Second Prize, 2019 Crowell Prize
     - INQUIRE Europe Research Grant Award
@@ -104,8 +106,6 @@ subtitle = ""
     [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
   - [Real-Time Macro Information and Bond Return Predictability: Does Deep Learning Help?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
     - with Andras Fulop and Junye Li. Jan. 2021.
-  - [Asset Pricing with Panel Trees under Global Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
-    - with Will Cong, Jingyu He, and Xin He. Oct. 2021.
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
     - with Xin He, Junbo Wang, and Chunchi Wu. Jun. 2021.
   - [Benchmarking Individual Corporate Bonds](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3940817)
