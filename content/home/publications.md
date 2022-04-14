@@ -92,7 +92,7 @@ subtitle = ""
 
 
 ### Working Papers:
-  - [Asset Pricing with Panel Trees under Global Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
+  - [Asset Pricing with Panel Tree under Global Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Will Cong, Jingyu He, and Xin He. Mar. 2022.
   - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
     - with Nicholas Polson and Jianeng Xu. Jan. 2021.
