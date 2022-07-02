@@ -107,7 +107,7 @@ subtitle = ""
   - [Regularized GMM for Time-Varying Models with Application to Asset Pricing](https://www.gavinfeng702.com)
     - with Liyuan Cui and Yongmiao Hong. Jun. 2022
   - [Interpretable and Arbitrage-Free Deep Learning for Corporate Bond Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971274)
-    - with Yizhi Song, Liang Jiang, and Junye Li. June. 2022.
+    - with Yizhi Song, Liang Jiang, and Junye Li. Jun. 2022.
   - [Deep Learning, Real-Time Macro Information, and Bond Return Predictability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
     - with Yinghua Fan, Andras Fulop, and Junye Li. Jun. 2022.
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
