@@ -108,7 +108,7 @@ subtitle = ""
     - with Liyuan Cui and Yongmiao Hong. Jun. 2022
   - [Interpretable and Arbitrage-Free Deep Learning for Corporate Bond Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971274)
     - with Yizhi Song, Liang Jiang, and Junye Li. Jun. 2022.
-  - [Deep Learning, Real-Time Macro Information, and Bond Return Predictability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
+  - [Real-Time Macro Information and Bond Return Predictability: A Weighted Group Deep Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
     - with Yinghua Fan, Andras Fulop, and Junye Li. Jun. 2022.
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
     - with Xin He, Junbo Wang, and Chunchi Wu. Jun. 2021.
