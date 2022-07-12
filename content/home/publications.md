@@ -94,12 +94,13 @@ subtitle = ""
 ### Working Papers:
   - [Asset Pricing with Panel Tree under Global Criteria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949463)
     - with Will Cong, Jingyu He, and Xin He. Mar. 2022.
+    - 2022 INQUIRE Europe Research Grant Award
   - [Deep Learning in Characteristics-Sorted Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243683)
     - with Nicholas Polson and Jianeng Xu. Jan. 2021.
     - R&R, Journal of Financial and Quantitative Analysis
     - Unigestion Alternative Risk Premia Research Grand Award
     - Second Prize, 2019 Crowell Prize
-    - INQUIRE Europe Research Grant Award
+    - 2019 INQUIRE Europe Research Grant Award
     - [Python Example](https://github.com/Jianeng/Deep-Learning-in-Asset-Pricing)
     - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),
     [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/),
