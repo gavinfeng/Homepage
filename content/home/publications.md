@@ -105,8 +105,8 @@ subtitle = ""
     - Media Coverage: [Chicago Booth Review](https://review.chicagobooth.edu/finance/2019/article/how-machine-learning-can-improve-money-management),
     [BNP PARIBAS](https://investors-corner.bnpparibas-am.com/thought-leadership/quantitative-finance/inquire-europe-asset-pricing-models/),
     [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
-  - [Regularized GMM for Time-Varying Models with Application to Asset Pricing](https://www.gavinfeng702.com)
-    - with Liyuan Cui and Yongmiao Hong. Jun. 2022
+  - [Regularized GMM for Time-Varying Models with Application to Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814520)
+    - with Liyuan Cui and Yongmiao Hong. Jul. 2022
   - [Interpretable and Arbitrage-Free Deep Learning for Corporate Bond Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971274)
     - with Yizhi Song, Liang Jiang, and Junye Li. Jun. 2022.
   - [Real-Time Macro Information and Bond Return Predictability: A Weighted Group Deep Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
