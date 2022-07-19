@@ -107,8 +107,9 @@ subtitle = ""
     [PR Newswire](https://www.prnewswire.com/news-releases/panagora-asset-management-announces-winner-of-18th-annual-dr-richard-a-crowell-prize-300977615.html)
   - [Regularized GMM for Time-Varying Models with Application to Asset Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814520)
     - with Liyuan Cui and Yongmiao Hong. Jul. 2022
+    - R&R, International Economic Review
   - [Interpretable and Arbitrage-Free Deep Learning for Corporate Bond Pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971274)
-    - with Yizhi Song, Liang Jiang, and Junye Li. Jun. 2022.
+    - with Yizhi Song, Liang Jiang, and Junye Li. Jul. 2022.
   - [Real-Time Macro Information and Bond Return Predictability: A Weighted Group Deep Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517081)
     - with Yinghua Fan, Andras Fulop, and Junye Li. Jun. 2022.
   - [Predicting Individual Corporate Bond Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870306)
